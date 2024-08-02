@@ -20,7 +20,10 @@ public class Student {
     {
         return (RE+SDA+SQAT+SEAM+FM)/4;
     }
-
+ double getSum()
+    {
+        return (RE+SDA+SQAT+SEAM+FM)/4;
+    }
   
     int getTotal()
     {
